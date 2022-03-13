@@ -11,10 +11,10 @@ from selenium import webdriver;
 def window():
     def runBot():
         #time to refresh page (seconds)
-        Timer = int(timeInput.text())
+        Timer = 3 (#3 seconds)
 
         #youtube link
-        link = linkInput.text()
+        link = https://youtu.be/1oKFbsCOdfE
 
         #number of views
         views = 1000
